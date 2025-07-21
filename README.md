@@ -83,38 +83,6 @@ Navigation: Expo Router
 
 Styling: Custom + Layout Constants
 
-🧪 Getting Started
-Clone the repository
-
-bash
-Copy
-Edit
-git clone https://github.com/your-username/quickfix.git
-cd quickfix
-Install dependencies
-
-bash
-Copy
-Edit
-npm install
-Run the app
-
-bash
-Copy
-Edit
-npm run dev
-Ensure you have Expo CLI installed. If not:
-
-bash
-Copy
-Edit
-npm install -g expo-cli
-📁 Local Development Notes
-Update categories and fixes in utils/troubleshootingData.ts
-
-Modify storage logic in utils/storage.ts
-
-Add new types in types/index.ts
 
 📜 License
 This project is licensed under the MIT License.
